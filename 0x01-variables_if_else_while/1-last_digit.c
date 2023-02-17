@@ -1,7 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 # include <stdio.h>
-/* betty style doc for function main goes there */
+/* main entry
+ *
+ *
+ */
 int main(void)
 {
 int n;
@@ -14,11 +17,11 @@ if (x > 5)
 {
 printf("and is greater than 5");
 }
-else if (x == 0)
+if (x == 0)
 {
 printf("and is 0");
 }
-else (x < 6 && x != 0)
+if (x < 6 && x != 0)
 {
 printf("and is less than 6 and not 0");
 }
