@@ -9,7 +9,7 @@ int main(void)
 char letter;
 char capital;
 letter = 'a';
-capital = 'A'
+capital = 'A';
 while
 (letter <= 'z') {
 putchar(letter);
