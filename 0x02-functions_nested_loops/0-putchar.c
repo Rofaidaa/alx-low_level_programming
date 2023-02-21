@@ -1,4 +1,5 @@
-#include "main.h"
+#include <unistd>
+
 /**
 * main - Prints "getchar" followed by a new line.
 *
@@ -6,8 +7,7 @@
 */
 
 
-int main(void)
-{
+int main(void){
 _putchar('p');
 _putchar('u');
 _putchar('t');
