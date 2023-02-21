@@ -1,4 +1,5 @@
 #include "main.h"
+#include <unistd>
 /**
 * main - Prints "getchar" followed by a new line.
 *
