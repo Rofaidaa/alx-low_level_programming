@@ -29,3 +29,8 @@ break;
 f = 0;
 }
 i++;
+}
+if (f == 0)
+reyurn (0) ;
+return (n);
+}
